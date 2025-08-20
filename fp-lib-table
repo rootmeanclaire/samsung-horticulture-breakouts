@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "samsung-horticulture")(type "KiCad")(uri "${KIPRJMOD}/samsung-horticulture.pretty")(options "")(descr ""))
+)
