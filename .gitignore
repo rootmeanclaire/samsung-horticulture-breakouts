@@ -1,3 +1,10 @@
+# Cache & Backups
 *cache
 *backups
 *.kicad_prl
+*.lck
+
+# Fabrication outputs
+*.gbr
+*.gbrjob
+*.drl
